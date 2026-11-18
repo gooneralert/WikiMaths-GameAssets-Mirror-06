@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+<script src="/__offline__/bootstrap.js"></script>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,user-scalable=no"
+    />
+    <title>Phineas and Ferb in the Transport-inators of Doooom</title>
+    <style>
+      html,
+      body,
+      #game,
+      canvas {
+        margin: 0;
+        width: 100%;
+        height: 100%;
+        background: #111;
+      }
+      body {
+        overflow: hidden;
+      }
+      canvas {
+        display: block;
+        outline: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="game"><canvas id="unity-canvas" tabindex="0"></canvas></div>
+    <script type="application/json" id="unity-build">
+      {
+        "loader": "Build/WebGLStellite.loader.js",
+        "config": {
+          "dataUrl": "Build/WebGLStellite.data.unityweb",
+          "frameworkUrl": "Build/WebGLStellite.framework.js.unityweb",
+          "codeUrl": "Build/WebGLStellite.wasm.unityweb",
+          "streamingAssetsUrl": "StreamingAssets",
+          "companyName": "Web Game Preservation",
+          "productName": "Phineas and Ferb in the Transport-inators of Doooom",
+          "productVersion": "1.0"
+        }
+      }
+    </script>
+    <script src="unity-loader.js"></script>
+  </body>
+</html>

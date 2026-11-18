@@ -1,0 +1,160 @@
+{
+  "slug": "the-binding-of-issac-repentance",
+  "title": "The Binding Of Issac: Repentance",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/boi/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/boi/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/boir.webp",
+  "baseUrl": "https://truffled.lol/games/boi/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/boi/index.html",
+  "status": "done",
+  "sizeBytes": 110795755,
+  "assetCount": 46,
+  "known404": [
+    "https://truffled.lol/games/boi/boot.wasm",
+    "https://truffled.lol/games/boi/instance/page-assets/cursor.png",
+    "https://truffled.lol/games/boi/savedatapath.txt",
+    "https://truffled.lol/games/boi/isaac.segs.bin",
+    "https://truffled.lol/games/boi/boot-trail.json",
+    "https://truffled.lol/games/boi/instance/page-assets/menu.json",
+    "https://truffled.lol/games/boi/instance/page-assets/menu_rip.wav",
+    "https://truffled.lol/games/boi/instance/page-assets/menu_noteappear.wav",
+    "https://truffled.lol/games/boi/instance/page-assets/menu_flip_light.wav",
+    "https://truffled.lol/games/boi/instance/page-assets/menu_scroll.wav",
+    "https://truffled.lol/games/boi/instance/page-assets/menu_notehide.wav",
+    "https://truffled.lol/games/boi/instance/page-assets/paper_in.wav",
+    "https://truffled.lol/games/boi/instance/page-assets/seedunlockpaper.png",
+    "https://truffled.lol/games/boi/instance/page-assets/paper_out.wav",
+    "https://truffled.lol/games/boi/instance/savedatapath.txt",
+    "https://truffled.lol/games/boi/instance/page-assets/saveselectmenu.png",
+    "https://truffled.lol/games/boi/instance/page-assets/teammeatfont16bold_0.png",
+    "https://truffled.lol/games/boi/menu.json",
+    "https://truffled.lol/games/boi/isaac-saves.json"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/boi/boot.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/boot.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/instance/page-assets/cursor.png",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/instance/page-assets/cursor.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/savedatapath.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/savedatapath.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/isaac.segs.bin",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/isaac.segs.bin",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/boot-trail.json",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/boot-trail.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/instance/page-assets/menu.json",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/instance/page-assets/menu.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/instance/page-assets/menu_rip.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/instance/page-assets/menu_rip.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/instance/page-assets/menu_noteappear.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/instance/page-assets/menu_noteappear.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/instance/page-assets/menu_flip_light.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/instance/page-assets/menu_flip_light.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/instance/page-assets/menu_scroll.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/instance/page-assets/menu_scroll.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/instance/page-assets/menu_notehide.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/instance/page-assets/menu_notehide.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/instance/page-assets/paper_in.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/instance/page-assets/paper_in.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/instance/page-assets/seedunlockpaper.png",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/instance/page-assets/seedunlockpaper.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/instance/page-assets/paper_out.wav",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/instance/page-assets/paper_out.wav",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/instance/savedatapath.txt",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/instance/savedatapath.txt",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/instance/page-assets/saveselectmenu.png",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/instance/page-assets/saveselectmenu.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/instance/page-assets/teammeatfont16bold_0.png",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/instance/page-assets/teammeatfont16bold_0.png",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/menu.json",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/menu.json",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/boi/isaac-saves.json",
+      "error": "HTTP 404 for https://truffled.lol/games/boi/isaac-saves.json",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-18T00:51:35.488Z",
+  "verifiedAt": "2026-11-18T00:52:41.754Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Isaac, recompiled",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 960,
+      "height": 540
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.4723,
+    "rendered": true
+  }
+}

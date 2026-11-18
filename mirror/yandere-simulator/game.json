@@ -1,0 +1,195 @@
+{
+  "slug": "yandere-simulator",
+  "title": "Yandere Simulator",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/yandere.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/yandere.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/yandere.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/yandere.html",
+  "entryUrl": "https://truffled.lol/gamefile/yandere.html",
+  "status": "done",
+  "sizeBytes": 101552728,
+  "assetCount": 18,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.data.unityweb",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.data.unityweb",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/YandereSim.wasm.code.unityweb",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/YandereSim.wasm.code.unityweb",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/YandereSim.wasm.framework.unityweb",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/YandereSim.wasm.framework.unityweb",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/inflate.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/inflate.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/utils/common.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/utils/common.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/utils/strings.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/utils/strings.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/inflate.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/inflate.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/messages.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/messages.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/constants.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/constants.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/zstream.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/zstream.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/gzheader.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/gzheader.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/adler32.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/adler32.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/crc32.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/crc32.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/index.js",
+      "error": "HTTP 400 for https://cdn.jsdelivr.net/index.js",
+      "status": 400
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/inffast.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/inffast.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/inftrees.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/zlib/inftrees.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/bit_reader.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/bit_reader.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/dictionary.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/dictionary.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/context.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/context.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/decode.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/decode.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/decompress.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/decompress.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/prefix.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/prefix.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/huffman.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/huffman.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dictionary.bin.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dictionary.bin.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/dictionary.bin.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/dictionary.bin.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/dictionary-browser.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/dictionary-browser.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/streams.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/streams.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/transform.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/dec/transform.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/node_modules/base64-js/index.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/node_modules/base64-js/index.js",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-18T05:39:08.867Z",
+  "verifiedAt": "2026-11-18T05:40:15.978Z",
+  "verification": {
+    "external": 2,
+    "blocking": 0,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "YandereSimulator",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9791,
+    "rendered": true
+  }
+}

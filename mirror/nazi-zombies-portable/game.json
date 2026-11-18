@@ -1,0 +1,88 @@
+{
+  "slug": "nazi-zombies-portable",
+  "title": "Nazi Zombies: Portable",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/nzp.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/nzp.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/nazi.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/nzp.html",
+  "entryUrl": "https://truffled.lol/gamefile/nzp.html",
+  "status": "done",
+  "sizeBytes": 110069897,
+  "assetCount": 13,
+  "known404": [
+    "https://rawcdn.githack.com/gn-math/assets/main/308/.pak",
+    "https://rawcdn.githack.com/gn-math/assets/main/308/.bsp.gz",
+    "https://rawcdn.githack.com/gn-math/assets/main/308/.zip",
+    "https://rawcdn.githack.com/gn-math/assets/main/308/.map",
+    "https://rawcdn.githack.com/gn-math/assets/main/308/.mvd.gz",
+    "https://rawcdn.githack.com/gn-math/assets/main/308/.qwd.gz",
+    "https://rawcdn.githack.com/gn-math/assets/main/308/.dem.gz"
+  ],
+  "failed": [
+    {
+      "url": "https://rawcdn.githack.com/gn-math/assets/main/308/.pak",
+      "error": "HTTP 404 for https://rawcdn.githack.com/gn-math/assets/main/308/.pak",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/gn-math/assets/main/308/.bsp.gz",
+      "error": "HTTP 404 for https://rawcdn.githack.com/gn-math/assets/main/308/.bsp.gz",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/gn-math/assets/main/308/.zip",
+      "error": "HTTP 404 for https://rawcdn.githack.com/gn-math/assets/main/308/.zip",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/gn-math/assets/main/308/.map",
+      "error": "HTTP 404 for https://rawcdn.githack.com/gn-math/assets/main/308/.map",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/gn-math/assets/main/308/.mvd.gz",
+      "error": "HTTP 404 for https://rawcdn.githack.com/gn-math/assets/main/308/.mvd.gz",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/gn-math/assets/main/308/.qwd.gz",
+      "error": "HTTP 404 for https://rawcdn.githack.com/gn-math/assets/main/308/.qwd.gz",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/gn-math/assets/main/308/.dem.gz",
+      "error": "HTTP 404 for https://rawcdn.githack.com/gn-math/assets/main/308/.dem.gz",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T14:30:32.147Z",
+  "verifiedAt": "2026-11-17T14:31:38.598Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "NZ: Portable",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1249,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.2352,
+    "rendered": true
+  }
+}

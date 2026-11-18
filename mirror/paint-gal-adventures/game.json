@@ -1,0 +1,70 @@
+{
+  "slug": "paint-gal-adventures",
+  "title": "Paint Gal Adventures",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/paintbog/Paint Gal Adventures.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/paintbog/Paint%20Gal%20Adventures.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/paintgal.webp",
+  "baseUrl": "https://truffled.lol/games/paintbog/",
+  "entry": "/Paint%20Gal%20Adventures.html",
+  "entryUrl": "https://truffled.lol/games/paintbog/Paint%20Gal%20Adventures.html",
+  "status": "done",
+  "sizeBytes": 112588682,
+  "assetCount": 22,
+  "known404": [
+    "https://truffled.lol/games/paintbog/godot.audio.worklet.js",
+    "https://truffled.lol/games/paintbog/.worker.js",
+    "https://truffled.lol/games/paintbog/.side.wasm",
+    "https://truffled.lol/games/paintbog/.audio.worklet.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/paintbog/godot.audio.worklet.js",
+      "error": "HTTP 404 for https://truffled.lol/games/paintbog/godot.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/paintbog/.worker.js",
+      "error": "HTTP 404 for https://truffled.lol/games/paintbog/.worker.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/paintbog/.side.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/paintbog/.side.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/paintbog/.audio.worklet.js",
+      "error": "HTTP 404 for https://truffled.lol/games/paintbog/.audio.worklet.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T15:33:50.641Z",
+  "verifiedAt": "2026-11-17T15:34:02.388Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 577,
+    "title": "Paint Gal Adventures (DEBUG)",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.1097,
+    "rendered": true
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "parappa-the-rapper",
+  "title": "Parappa The Rapper",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/paps/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/paps/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/rapper.webp",
+  "baseUrl": "https://truffled.lol/games/paps/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/paps/index.html",
+  "status": "done",
+  "sizeBytes": 85914196,
+  "assetCount": 18,
+  "known404": [
+    "https://truffled.lol/games/paps/game.zip",
+    "https://truffled.lol/extra/data/emulator.js",
+    "https://truffled.lol/extra/data/nipplejs.js",
+    "https://truffled.lol/extra/data/shaders.js",
+    "https://truffled.lol/extra/data/storage.js",
+    "https://truffled.lol/extra/data/gamepad.js",
+    "https://truffled.lol/extra/data/GameManager.js",
+    "https://truffled.lol/extra/data/socket.io.min.js",
+    "https://truffled.lol/extra/data/compression.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/paps/game.zip",
+      "error": "HTTP 404 for https://truffled.lol/games/paps/game.zip",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/extra/data/emulator.js",
+      "error": "HTTP 404 for https://truffled.lol/extra/data/emulator.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/extra/data/nipplejs.js",
+      "error": "HTTP 404 for https://truffled.lol/extra/data/nipplejs.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/extra/data/shaders.js",
+      "error": "HTTP 404 for https://truffled.lol/extra/data/shaders.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/extra/data/storage.js",
+      "error": "HTTP 404 for https://truffled.lol/extra/data/storage.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/extra/data/gamepad.js",
+      "error": "HTTP 404 for https://truffled.lol/extra/data/gamepad.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/extra/data/GameManager.js",
+      "error": "HTTP 404 for https://truffled.lol/extra/data/GameManager.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/extra/data/socket.io.min.js",
+      "error": "HTTP 404 for https://truffled.lol/extra/data/socket.io.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/extra/data/compression.js",
+      "error": "HTTP 404 for https://truffled.lol/extra/data/compression.js",
+      "status": 404
+    },
+    {
+      "url": "(crawl)",
+      "error": "crawl stalled; abandoned hung downloads",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T16:06:21.901Z",
+  "verifiedAt": "2026-11-17T16:06:31.567Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 0.996,
+    "rendered": true
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "/gamefile/yandere.html": "/yandere.html",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/UnityLoader.js": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/UnityLoader.js",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.data.unityweb.part1": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.data.unityweb.part1",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.data.unityweb.part2": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.data.unityweb.part2",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.data.unityweb.part3": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.data.unityweb.part3",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.data.unityweb.part4": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.data.unityweb.part4",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.data.unityweb.part5": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.data.unityweb.part5",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.wasm.code.unityweb": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.wasm.code.unityweb",
+  "https://cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.wasm.framework.unityweb": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.wasm.framework.unityweb",
+  "https://raw.githubusercontent.com/genizy/web-port/master/yandere-simulator/Build/UnityLoader.js": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/UnityLoader.js",
+  "https://raw.githubusercontent.com/genizy/web-port/master/yandere-simulator/Build/YandereSim.data.unityweb.part1": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.data.unityweb.part1",
+  "https://raw.githubusercontent.com/genizy/web-port/master/yandere-simulator/Build/YandereSim.data.unityweb.part2": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.data.unityweb.part2",
+  "https://raw.githubusercontent.com/genizy/web-port/master/yandere-simulator/Build/YandereSim.data.unityweb.part3": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.data.unityweb.part3",
+  "https://raw.githubusercontent.com/genizy/web-port/master/yandere-simulator/Build/YandereSim.data.unityweb.part4": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.data.unityweb.part4",
+  "https://raw.githubusercontent.com/genizy/web-port/master/yandere-simulator/Build/YandereSim.data.unityweb.part5": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.data.unityweb.part5",
+  "https://raw.githubusercontent.com/genizy/web-port/master/yandere-simulator/Build/YandereSim.wasm.code.unityweb": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.wasm.code.unityweb",
+  "https://raw.githubusercontent.com/genizy/web-port/master/yandere-simulator/Build/YandereSim.wasm.framework.unityweb": "/__external__/cdn.jsdelivr.net/gh/genizy/web-port@master/yandere-simulator/Build/YandereSim.wasm.framework.unityweb",
+  "https://truffled.lol/gamefile/yandere.html": "/yandere.html"
+}

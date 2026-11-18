@@ -1,0 +1,57 @@
+{
+  "slug": "untitled-goose-game",
+  "title": "Untitled Goose Game",
+  "type": "HTML",
+  "developer": "House House",
+  "description": "Untitled Goose Game is a slapstick-stealth-sandbox, where you are a goose let loose on an unsuspecting village. Make your way around town, from peoples' back gardens to the high street shops to the village green, setting up pranks, stealing hats, honking a lot, and generally ruining everyoneâs day.",
+  "tags": [
+    "3D",
+    "Comedy",
+    "Family Friendly",
+    "Indie",
+    "Puzzle",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "d47c2ff3-2e4d-45db-bb7f-c8d724117760",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/d47c2ff3-2e4d-45db-bb7f-c8d724117760/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/d47c2ff3-2e4d-45db-bb7f-c8d724117760/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/d47c2ff3-2e4d-45db-bb7f-c8d724117760/1/index.html",
+  "status": "done",
+  "sizeBytes": 100789235,
+  "assetCount": 28,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/d47c2ff3-2e4d-45db-bb7f-c8d724117760/1/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/d47c2ff3-2e4d-45db-bb7f-c8d724117760/1/Build/build.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/d47c2ff3-2e4d-45db-bb7f-c8d724117760/1/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:52:57.794Z",
+  "verifiedAt": "2026-11-16T16:18:07.395Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Untitled Goose Game",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}
