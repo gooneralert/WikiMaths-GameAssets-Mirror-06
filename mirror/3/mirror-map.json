@@ -1,0 +1,14 @@
+{
+  "/favicon.ico": "/__site__/favicon.ico",
+  "/games/minus3/Build/minus3bog.data": "/Build/minus3bog.data",
+  "/games/minus3/Build/minus3bog.framework.js": "/Build/minus3bog.framework.js",
+  "/games/minus3/Build/minus3bog.loader.js": "/Build/minus3bog.loader.js",
+  "/games/minus3/Build/minus3bog.wasm": "/Build/minus3bog.wasm",
+  "/games/minus3/index.html": "/index.html",
+  "https://truffled.lol/favicon.ico": "/__site__/favicon.ico",
+  "https://truffled.lol/games/minus3/Build/minus3bog.data": "/Build/minus3bog.data",
+  "https://truffled.lol/games/minus3/Build/minus3bog.framework.js": "/Build/minus3bog.framework.js",
+  "https://truffled.lol/games/minus3/Build/minus3bog.loader.js": "/Build/minus3bog.loader.js",
+  "https://truffled.lol/games/minus3/Build/minus3bog.wasm": "/Build/minus3bog.wasm",
+  "https://truffled.lol/games/minus3/index.html": "/index.html"
+}

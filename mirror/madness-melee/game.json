@@ -1,0 +1,58 @@
+{
+  "slug": "madness-melee",
+  "title": "Madness Melee",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/bogtruffled/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/bogtruffled/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/madness.webp",
+  "baseUrl": "https://truffled.lol/games/bogtruffled/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/bogtruffled/index.html",
+  "status": "done",
+  "sizeBytes": 124228754,
+  "assetCount": 10,
+  "known404": [
+    "https://truffled.lol/games/bogtruffled/Build/build.wasm",
+    "https://truffled.lol/games/bogtruffled/Build/build.temp.asm.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/bogtruffled/Build/build.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/bogtruffled/Build/build.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/bogtruffled/Build/build.temp.asm.js",
+      "error": "HTTP 404 for https://truffled.lol/games/bogtruffled/Build/build.temp.asm.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T13:18:16.639Z",
+  "verifiedAt": "2026-11-17T13:18:28.976Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Unity WebGL Player | MadnessMelee",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9992,
+    "rendered": true
+  }
+}

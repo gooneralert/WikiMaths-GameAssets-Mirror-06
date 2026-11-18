@@ -1,0 +1,28 @@
+{
+  "mirror/little-big-planet/game.zip.part1": {
+    "size": 104752742,
+    "parts": [
+      {
+        "path": "mirror/little-big-planet/game.zip.part1.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/little-big-planet/game.zip.part1.part002",
+        "size": 14752742
+      }
+    ]
+  },
+  "mirror/parappa-the-rapper/game.zip.part1": {
+    "size": 104752742,
+    "parts": [
+      {
+        "path": "mirror/parappa-the-rapper/game.zip.part1.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/parappa-the-rapper/game.zip.part1.part002",
+        "size": 14752742
+      }
+    ]
+  }
+}

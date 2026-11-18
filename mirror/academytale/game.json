@@ -1,0 +1,76 @@
+{
+  "slug": "academytale",
+  "title": "Academytale",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/academytale/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/academytale/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/academytale.webp",
+  "baseUrl": "https://truffled.lol/games/academytale/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/academytale/index.html",
+  "status": "done",
+  "sizeBytes": 98794114,
+  "assetCount": 34,
+  "known404": [
+    "https://truffled.lol/games/academytale/.audio.worklet.js",
+    "https://truffled.lol/games/academytale/.audio.position.worklet.js",
+    "https://truffled.lol/games/academytale/.side.wasm",
+    "https://truffled.lol/games/academytale/godot.audio.position.worklet.js",
+    "https://truffled.lol/games/academytale/godot.audio.worklet.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/academytale/.audio.worklet.js",
+      "error": "HTTP 404 for https://truffled.lol/games/academytale/.audio.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/academytale/.audio.position.worklet.js",
+      "error": "HTTP 404 for https://truffled.lol/games/academytale/.audio.position.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/academytale/.side.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/academytale/.side.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/academytale/godot.audio.position.worklet.js",
+      "error": "HTTP 404 for https://truffled.lol/games/academytale/godot.audio.position.worklet.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/academytale/godot.audio.worklet.js",
+      "error": "HTTP 404 for https://truffled.lol/games/academytale/godot.audio.worklet.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-30T10:46:15.534Z",
+  "verifiedAt": "2026-11-16T12:44:37.072Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "ACADEMYTALE (DEBUG)",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0322,
+    "rendered": true
+  }
+}

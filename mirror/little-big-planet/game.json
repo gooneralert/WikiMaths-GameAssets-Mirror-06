@@ -1,0 +1,97 @@
+{
+  "slug": "little-big-planet",
+  "title": "Little Big Planet",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/lbp/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/lbp/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/lbp.webp",
+  "baseUrl": "https://truffled.lol/games/lbp/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/lbp/index.html",
+  "status": "done",
+  "sizeBytes": 105306036,
+  "assetCount": 20,
+  "known404": [
+    "https://truffled.lol/games/lbp/game.zip",
+    "https://truffled.lol/extra/data/nipplejs.js",
+    "https://truffled.lol/extra/data/emulator.js",
+    "https://truffled.lol/extra/data/storage.js",
+    "https://truffled.lol/extra/data/shaders.js",
+    "https://truffled.lol/extra/data/gamepad.js",
+    "https://truffled.lol/extra/data/GameManager.js",
+    "https://truffled.lol/extra/data/socket.io.min.js",
+    "https://truffled.lol/extra/data/compression.js"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/lbp/game.zip",
+      "error": "HTTP 404 for https://truffled.lol/games/lbp/game.zip",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/extra/data/nipplejs.js",
+      "error": "HTTP 404 for https://truffled.lol/extra/data/nipplejs.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/extra/data/emulator.js",
+      "error": "HTTP 404 for https://truffled.lol/extra/data/emulator.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/extra/data/storage.js",
+      "error": "HTTP 404 for https://truffled.lol/extra/data/storage.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/extra/data/shaders.js",
+      "error": "HTTP 404 for https://truffled.lol/extra/data/shaders.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/extra/data/gamepad.js",
+      "error": "HTTP 404 for https://truffled.lol/extra/data/gamepad.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/extra/data/GameManager.js",
+      "error": "HTTP 404 for https://truffled.lol/extra/data/GameManager.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/extra/data/socket.io.min.js",
+      "error": "HTTP 404 for https://truffled.lol/extra/data/socket.io.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/extra/data/compression.js",
+      "error": "HTTP 404 for https://truffled.lol/extra/data/compression.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T13:00:28.590Z",
+  "verifiedAt": "2026-11-17T13:00:38.495Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Quasar PSP Loader",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null,
+    "screenshotNonBlack": 1,
+    "rendered": true
+  }
+}

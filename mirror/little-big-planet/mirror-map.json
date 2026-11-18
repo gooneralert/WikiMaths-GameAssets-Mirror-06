@@ -1,0 +1,22 @@
+{
+  "/404": "/__site__/extra/data/.json.html",
+  "/css/404.css": "/__site__/css/404.css",
+  "/extra/data/.json": "/__site__/extra/data/.json.html",
+  "/extra/data/emulator.css": "/__site__/extra/data/emulator.css",
+  "/extra/data/emulator.min.css": "/__site__/extra/data/emulator.min.css",
+  "/extra/data/emulator.min.js": "/__site__/extra/data/emulator.min.js",
+  "/extra/data/loader.js": "/__site__/extra/data/loader.js",
+  "/games/lbp/game.zip.part1": "/game.zip.part1",
+  "/games/lbp/index.html": "/index.html",
+  "/png/logo.png": "/__site__/png/logo.png",
+  "https://truffled.lol/404": "/__site__/extra/data/.json.html",
+  "https://truffled.lol/css/404.css": "/__site__/css/404.css",
+  "https://truffled.lol/extra/data/.json": "/__site__/extra/data/.json.html",
+  "https://truffled.lol/extra/data/emulator.css": "/__site__/extra/data/emulator.css",
+  "https://truffled.lol/extra/data/emulator.min.css": "/__site__/extra/data/emulator.min.css",
+  "https://truffled.lol/extra/data/emulator.min.js": "/__site__/extra/data/emulator.min.js",
+  "https://truffled.lol/extra/data/loader.js": "/__site__/extra/data/loader.js",
+  "https://truffled.lol/games/lbp/game.zip.part1": "/game.zip.part1",
+  "https://truffled.lol/games/lbp/index.html": "/index.html",
+  "https://truffled.lol/png/logo.png": "/__site__/png/logo.png"
+}

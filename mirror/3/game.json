@@ -1,0 +1,52 @@
+{
+  "slug": "3",
+  "title": "-3",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/minus3/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/minus3/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/minus3.webp",
+  "baseUrl": "https://truffled.lol/games/minus3/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/minus3/index.html",
+  "status": "done",
+  "sizeBytes": 117109980,
+  "assetCount": 12,
+  "known404": [
+    "https://truffled.lol/games/minus3/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/games/minus3/Build/build.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/minus3/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-30T10:36:50.673Z",
+  "verifiedAt": "2026-11-16T12:40:27.532Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Unity WebGL Player | -3",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0624,
+    "rendered": true
+  }
+}
